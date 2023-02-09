@@ -277,7 +277,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
     * Permission control: By using the `auth` and `authP` modifiers, you can protect functionality so only other apps or entities can access it
     * Forwarders: aragonOS apps can send their intent to perform an action to other apps, so that intent is forwarded if a set of requirements are met
 * [EIP-2535 Diamond Standard](https://eips.ethereum.org/EIPS/eip-2535)
-    * Organize contracts so they share the same contract storage and Ethereum address.
+    * Organize contracts so they share the same contract 
+    and Ethereum address.
     * Solves the 24KB max contract size limit.
     * Upgrade diamonds by adding/replacing/removing any number of functions in a single transaction.
     * Upgrades are transparent by recording them with a standard event.
@@ -331,6 +332,8 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Infura](https://infura.io/) - A managed IPFS API Gateway and pinning service
 * [3Box Storage](https://docs.3box.io/api/storage) - An api for user controlled, distributed storage. Built on top of IPFS and Orbitdb.
 * [Aleph.im](https://aleph.im/) - an offchain incentivized peer-to-peer cloud project (database, file storage, computing and DID) compatible with Ethereum and IPFS.
+* [DB3 Network](https://github.com/dbpunk-labs/db3) - Decentralized firebase firestore alternative for building fully decentralized dApps quickly with minimal engineering effort.
+
 
 
 #### Messaging
